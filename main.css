@@ -68,10 +68,6 @@ body {
 .jumbotron {
   background-image:url("http://static.panoramio.com/photos/large/9720476.jpg");
   height: 500px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position-y: 20%;
-  background-position-x: 35%;
   //background-position: center;
   //background-size: 1024px 749px;
 }
