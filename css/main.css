@@ -57,7 +57,7 @@ body {
 }
 
 .nav .container{
-  padding-top:2px; 
+  padding-top:2px;
 }
 .nav li {
   height: 60px;
@@ -66,7 +66,10 @@ body {
 }
 
 .jumbotron {
-  background-image:url("..https://cloud.githubusercontent.com/assets/11531167/6928688/cbced338-d7c3-11e4-8868-b97e549a0fd1.jpg");
+  background-image:url("../res/fordham.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  height:500px;
 }
 
 .jumbotron .container {
@@ -106,9 +109,9 @@ body {
   color: #00b0ff;
 }
 
-//.Links .row {
-//  padding-left: 290px;
-//}
+.links {
+  text-align:center;
+}
 
 .Links h4 {
 	padding-bottom: 40px;
