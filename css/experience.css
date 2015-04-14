@@ -66,7 +66,7 @@ body {
 }
 
 .jumbotron {
-  background-image:url("../res/fordham.jpg");
+  background-image:url("../res/winter.jpeg");
   background-repeat:no-repeat;
   background-size: cover;
   height:500px;
@@ -80,60 +80,3 @@ body {
   border-radius:20px;
   background: rgba(0,0,0,0.5);
 }
-
-.jumbotron h1 {
-  text-shadow: 0px 2px 3px #000000;
-  color: #fff;
-  /*
-  font-size: 48px;
-  font-family: 'Shift', sans-serif;
-  font-weight: bold;*/
-}
-
-.jumbotron p {
-  font-size: 20px;
-  color: #fff;
-}
-
-.learn-more {
-  background-color: #f7f7f7;
-}
-
-.learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.learn-more a {
-  color: #00b0ff;
-}
-
-.links {
-  text-align:center;
-}
-
-.Links h4 {
-	padding-bottom: 40px;
-	padding-top: 30px;
-}
-.Links h2{
-  text-align: center;
-}
-.Links p{
-  text-align: center;
-  color: #800000;
-  font-size: 20px;
-}
-
-.Links .container {
-  position:relative;
-}
-.Links .container a{
-  text-align:center;
-  color:white;
-}
-.contacts p{
-  text-align: center;
-  color: #800000;
-  font-size: 20px;}
