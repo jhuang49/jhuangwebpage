@@ -133,7 +133,16 @@ body {
   text-align:center;
   color:white;
 }
+
+.contacts .container{
+  border-radius:20px;
+  width: 330px;
+  background: rgba(92,172,238,1);
+}
+
 .contacts p{
   text-align: center;
-  color: #800000;
-  font-size: 20px;}
+  color: white;
+  font-size: 20px;
+
+  }
