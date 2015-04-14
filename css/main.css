@@ -122,6 +122,8 @@ body {
 }
 .Links p{
   text-align: center;
+  color: #800000;
+  font-size: 20px;
 }
 
 .Links .container {
